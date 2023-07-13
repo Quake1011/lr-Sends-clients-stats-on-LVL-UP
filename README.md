@@ -1,4 +1,4 @@
-# lr Sends clients stats on LVL UP
+# [LR] Sends clients stats on LVL UP
  **Post-query to http used JSONObj after lvl up**
 
 ## Description
@@ -58,10 +58,9 @@ In the server.cfg configuration file, specify convar `http_a "OWN_a_LINK"`
 At this moment there are 2 real players on the server, one of which received the request, as well as 3 bots
 
 ## About possible problems, please let me know: 
-
-[<img src="https://i.ibb.co/tJTTmxP/vk-process-mining.png" width="16.3%"/>](https://vk.com/bgtroll)
-[<img src="https://i.ibb.co/VjhryGb/png-transparent-brand-logo-steam-gump-s.png" width="16.3%"/>](https://hlmod.ru/members/palonez.92448/)
-[<img src="https://i.ibb.co/k2kTWWJ/app-icons-discord.png" width="16.3%"/>](https://discordapp.com/users/quake1011/)
-[<img src="https://i.ibb.co/xHZPN0g/s-l500.png" width="16.3%"/>](https://steamcommunity.com/id/comecamecame)
+[<img src="https://i.ibb.co/tJTTmxP/vk-process-mining.png" width="15.3%"/>](https://vk.com/bgtroll)
+[<img src="https://i.ibb.co/VjhryGb/png-transparent-brand-logo-steam-gump-s.png" width="15.3%"/>](https://hlmod.ru/members/palonez.92448/)
+[<img src="https://i.ibb.co/k2kTWWJ/app-icons-discord.png" width="15.3%"/>](https://discordapp.com/users/quake1011/)
+[<img src="https://i.ibb.co/xHZPN0g/s-l500.png" width="15.3%"/>](https://steamcommunity.com/id/comecamecame)
 [<img src="https://i.ibb.co/S0LyzmX/tg-process-mining.png" width="16.3%"/>](https://t.me/ArrayListX)
-[<img src="https://i.ibb.co/Tb2gprD/2056021.png" width="16.3%"/>](https://github.com/Quake1011)
+[<img src="https://i.ibb.co/Tb2gprD/2056021.png" width="15.3%"/>](https://github.com/Quake1011)
