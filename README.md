@@ -25,32 +25,32 @@ In the server.cfg configuration file, specify convar `http_a "OWN_a_LINK"`
 	"Json":
 	[
 		"{
-			'SteamID':		'Grant', 				
-			'Kills':		1,	
-			'Deaths':		0,	
-			'Scores':		2,	
-			'Time':			0
+			'SteamID':'Grant',
+			'Kills':1,
+			'Deaths':0,
+			'Scores':2,
+			'Time':0
 		}",
 		"{
-			'SteamID':	'Dean', 				
-			'Kills':	1,	
-			'Deaths':	0,	
-			'Scores':	2,	
-			'Time':		0
+			'SteamID':'Dean',
+			'Kills':1,
+			'Deaths':0,
+			'Scores':2,
+			'Time':0
 		}",
 		"{
-			'SteamID':	'Henry', 				
-			'Kills':	0,	
-			'Deaths':	1,	
-			'Scores':	0,	
-			'Time':		0
+			'SteamID':'Henry',
+			'Kills':0,
+			'Deaths':1,
+			'Scores':0,
+			'Time':0
 		}",
 		"{
-			'SteamID':	'STEAM_1:1:00000000',	
-			'Kills':	0,	
-			'Deaths':	0,	
-			'Scores':	0,	
-			'Time':		1109303291
+			'SteamID':'STEAM_1:1:00000000',
+			'Kills':0,
+			'Deaths':0,
+			'Scores':0,
+			'Time':1109303291
 		}"
 	]
 }
@@ -58,34 +58,10 @@ In the server.cfg configuration file, specify convar `http_a "OWN_a_LINK"`
 At this moment there are 2 real players on the server, one of which received the request, as well as 3 bots
 
 ## About possible problems, please let me know: 
-- [HLMOD](https://hlmod.ru/members/palonez.92448/)
-- [DISCORD](https://discord.com/users/quake1011/)
-- [STEAM](https://steamcommunity.com/id/comecamecame/)
 
-<pre>
-	<center>
-		<a src='https://vk.com/bgtroll'>
-			<img type="full" width="100px" height="100px" src="https://hlmod.net/attachments/vk-process-mining-kopija-png.113163/">
-		</a>
-		
-		<a src='https://hlmod.ru/members/palonez.92448/'>
-			<img type="full" width="100px" height="100px" src="https://hlmod.net/attachments/png-transparent-brand-logo-steam-gump-s-kopija-png.113164/">
-		</a>
-		
-		<a src='https://discordapp.com/users/quake1011/'>
-			<img type="full" width="100px" height="100px" src="https://hlmod.net/attachments/app-icons-discord-png.113165/">
-		</a>  
-		
-		<a src='https://steamcommunity.com/id/comecamecame'>
-			<img type="full" width="100px" height="100px" src="https://hlmod.net/attachments/s-l500-png.113166/">
-		</a>
-		
-		<a src='https://t.me/ArrayListX'>
-			<img type="full" width="100px" height="100px" src="https://hlmod.net/attachments/tg-process-mining-kopija-png.113176/">
-		</a>
-
-		<a src='https://github.com/Quake1011'>
-			<img type="full" width="100px" height="100px" src="https://hlmod.net/attachments/2056021-png.113177/">
-		</a>
-	</center>
-</pre>
+[<img src="https://i.ibb.co/tJTTmxP/vk-process-mining.png" width="16.3%"/>](https://vk.com/bgtroll)
+[<img src="https://i.ibb.co/VjhryGb/png-transparent-brand-logo-steam-gump-s.png" width="16.3%"/>](https://hlmod.ru/members/palonez.92448/)
+[<img src="https://i.ibb.co/k2kTWWJ/app-icons-discord.png" width="16.3%"/>](https://discordapp.com/users/quake1011/)
+[<img src="https://i.ibb.co/xHZPN0g/s-l500.png" width="16.3%"/>](https://steamcommunity.com/id/comecamecame)
+[<img src="https://i.ibb.co/S0LyzmX/tg-process-mining.png" width="16.3%"/>](https://t.me/ArrayListX)
+[<img src="https://i.ibb.co/Tb2gprD/2056021.png" width="16.3%"/>](https://github.com/Quake1011)

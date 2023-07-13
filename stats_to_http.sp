@@ -29,11 +29,12 @@ public void OnHook(ConVar convar, const char[] oldValue, const char[] newValue)
 
 public void OnLvlCH(int iClient, int iNewLevel, int iOldLevel) 
 {
-	char auth[22], fmt[MAX_NAME_LENGTH];
 	if (0 < iClient <= MaxClients && IsClientInGame(iClient) && !IsFakeClient(iClient)) 
 	{
 		if (iOldLevel < iNewLevel) 
 		{
+			char auth[22], fmt[MAX_NAME_LENGTH];
+	
 			JSONArray jArray = new JSONArray();
 			JSONObject obj = new JSONObject();
 
